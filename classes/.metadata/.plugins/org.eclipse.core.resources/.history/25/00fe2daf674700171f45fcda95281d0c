@@ -1,0 +1,23 @@
+package streams
+
+object BloxorzTest {
+
+	println("hello")
+	
+ object InfiniteLevel extends Solver with StringParserTerrain{
+		val level="""-ST
+          |-oo
+          |o-o""".stripMargin
+          
+    //val startBlock = Block(Pos(1,1),Pos(1,1))
+    
+    val history = List[Move]()
+    
+  }
+
+InfiniteLevel.startBlock.neighbors
+InfiniteLevel.terrain
+//InfiniteLevel.goal
+
+InfiniteLevel.neighborsWithHistory(InfiniteLevel.startBlock,InfiniteLevel.history).head
+}

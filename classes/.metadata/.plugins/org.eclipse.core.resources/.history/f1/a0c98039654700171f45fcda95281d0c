@@ -1,0 +1,21 @@
+package streams
+
+object BloxorzTest {
+
+	println("hello")                          //> hello
+	
+ object InfiniteLevel extends Solver with GameDef{
+		val level="""-ST
+          |-oo
+          |o-o""".stripMargin
+          
+    //val startBlock = Block(Pos(1,1),Pos(1,1))
+    
+  }
+
+InfiniteLevel.startPos                            //> res0: streams.BloxorzTest.InfiniteLevel.Pos = Pos(0,1)
+//InfiniteLevel.terrain                           //> res1: streams.BloxorzTest.InfiniteLevel.Terrain = <function1>
+//InfiniteLevel.goal                              //> res2: streams.BloxorzTest.InfiniteLevel.Pos = Pos(0,2)
+
+//InfiniteLevel.neighborsWithHistory()
+}

@@ -1,0 +1,18 @@
+package streams
+
+object BloxorzTest extends StringParserTerrain{
+
+println("hello")
+
+val level =
+        """ST
+          |oo
+          |oo""".stripMargin
+ lazy val vector: Vector[Vector[Char]] =
+    Vector(level.split("\n").map(str => Vector(str: _*)): _*)
+
+  lazy val terrain: Terrain = terrainFunction(vector)
+  lazy val startPos: Pos = findChar('S', vector)
+  lazy val goal: Pos = findChar('T', vector)
+
+}

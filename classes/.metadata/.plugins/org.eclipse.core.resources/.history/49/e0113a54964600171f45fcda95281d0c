@@ -1,0 +1,17 @@
+package streams
+
+object BloxorzTest {
+
+	println("hello")
+	
+ object InfiniteLevel extends StringParserTerrain {
+		val level="""-ST
+          |-oo
+          |o-o""".stripMargin
+  }
+
+InfiniteLevel.startPos
+InfiniteLevel.terrain
+InfiniteLevel.goal
+}
+

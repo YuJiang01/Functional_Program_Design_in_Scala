@@ -1,0 +1,10 @@
+INDEX VERSION 1.129+/Users/yujiang/classes/functional_programming_design/classes/.metadata/.plugins/org.eclipse.jdt.core
+167792666.index
+4015152.index
+964931301.index
+998348047.index
+2393437858.index
+621068595.index
+1507667761.index
+4274000618.index
+2022661902.index

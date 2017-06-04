@@ -1,0 +1,67 @@
+package streams
+
+object BloxorzTest {
+
+	println("hello")                          //> hello
+	
+ object InfiniteLevel extends Solver with StringParserTerrain{
+    val level =
+      """------
+        |--ST--
+        |--oo--
+        |--oo--
+        |------""".stripMargin
+          
+    //val startBlock = Block(Pos(1,1),Pos(1,1))
+    val secondBlock = Block(Pos(2,2),Pos(3,2))
+    val thirdBlock = Block(Pos(2,3),Pos(3,3))
+    val history = List[Move](Down,Right)
+    
+  }
+
+InfiniteLevel.startBlock.legalNeighbors           //> res0: List[(streams.BloxorzTest.InfiniteLevel.Block, streams.BloxorzTest.Inf
+                                                  //| initeLevel.Move)] = List((Block(Pos(2,2),Pos(3,2)),Down))
+InfiniteLevel.terrain(InfiniteLevel.startPos)     //> res1: Boolean = true
+
+InfiniteLevel.goal                                //> res2: streams.BloxorzTest.InfiniteLevel.Pos = Pos(1,3)
+
+InfiniteLevel.neighborsWithHistory(InfiniteLevel.startBlock,InfiniteLevel.history).head
+                                                  //> res3: (streams.BloxorzTest.InfiniteLevel.Block, List[streams.BloxorzTest.Inf
+                                                  //| initeLevel.Move]) = (Block(Pos(2,2),Pos(3,2)),List(Down, Right, Down))
+
+val nei = InfiniteLevel.neighborsWithHistory(InfiniteLevel.thirdBlock,InfiniteLevel.history)
+                                                  //> nei  : Stream[(streams.BloxorzTest.InfiniteLevel.Block, List[streams.Bloxorz
+                                                  //| Test.InfiniteLevel.Move])] = Stream((Block(Pos(1,3),Pos(1,3)),List(Down, Rig
+                                                  //| ht, Up)), ?)
+
+
+val newNei = InfiniteLevel.newNeighborsOnly(nei,Set(InfiniteLevel.startBlock,InfiniteLevel.secondBlock))
+                                                  //> newNei  : Stream[(streams.BloxorzTest.InfiniteLevel.Block, List[streams.Blox
+                                                  //| orzTest.InfiniteLevel.Move])] = Stream((Block(Pos(1,3),Pos(1,3)),List(Down, 
+                                                  //| Right, Up)), ?)
+
+
+InfiniteLevel.pathsFromStart                      //> res4: Stream[(streams.BloxorzTest.InfiniteLevel.Block, List[streams.BloxorzT
+                                                  //| est.InfiniteLevel.Move])] = Stream((Block(Pos(2,2),Pos(3,2)),List(Down)), ?)
+                                                  //| 
+
+InfiniteLevel.solution                            //> java.util.NoSuchElementException: head of empty stream
+                                                  //| 	at scala.collection.immutable.Stream$Empty$.head(Stream.scala:1168)
+                                                  //| 	at scala.collection.immutable.Stream$Empty$.head(Stream.scala:1166)
+                                                  //| 	at streams.Solver$class.solution(Solver.scala:105)
+                                                  //| 	at streams.BloxorzTest$$anonfun$main$1$InfiniteLevel$2$.solution$lzycomp
+                                                  //| ute(streams.BloxorzTest.scala:7)
+                                                  //| 	at streams.BloxorzTest$$anonfun$main$1$InfiniteLevel$2$.solution(streams
+                                                  //| .BloxorzTest.scala:7)
+                                                  //| 	at streams.BloxorzTest$$anonfun$main$1.apply$mcV$sp(streams.BloxorzTest.
+                                                  //| scala:37)
+                                                  //| 	at org.scalaide.worksheet.runtime.library.WorksheetSupport$$anonfun$$exe
+                                                  //| cute$1.apply$mcV$sp(WorksheetSupport.scala:76)
+                                                  //| 	at org.scalaide.worksheet.runtime.library.WorksheetSupport$.redirected(W
+                                                  //| orksheetSupport.scala:65)
+                                                  //| 	at org.scalaide.worksheet.runtime.library.WorksheetSupport$.$execute(Wor
+                                                  //| ksheetSupport.scala:75)
+                                                  //| 	at streams.BloxorzTest$.main(streams.BloxorzTest.scala:3)
+                                                  //| 	at streams.Bloxor
+                                                  //| Output exceeds cutoff limit.
+}

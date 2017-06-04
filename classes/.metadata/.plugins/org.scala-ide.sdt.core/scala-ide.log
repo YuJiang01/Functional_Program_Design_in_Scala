@@ -1,0 +1,578 @@
+2017-05-30 22:16:24,044  WARN [ModalContext] - ScalaProject - Project WaterPouring has platform default sourceLevel.
+2017-05-30 22:16:24,046  WARN [ModalContext] - ScalaProject - Project WaterPouring runs on platform default installation.
+2017-05-30 22:16:24,413  WARN [Worker-0] - ScalaProject - Project WaterPouring has platform default sourceLevel.
+2017-05-30 22:16:24,415  WARN [Worker-0] - ScalaProject - Project WaterPouring runs on platform default installation.
+2017-05-30 22:16:38,090  WARN [main] - ScalaProject - Project WaterPouring has platform default sourceLevel.
+2017-05-30 22:16:38,090  WARN [main] - ScalaProject - Project WaterPouring runs on platform default installation.
+2017-05-30 22:16:43,307  WARN [main] - ScalaProject - Project WaterPouring has platform default sourceLevel.
+2017-05-30 22:16:43,307  WARN [main] - ScalaProject - Project WaterPouring runs on platform default installation.
+2017-05-30 22:16:43,657  WARN [Worker-8] - ScalaProject - Project WaterPouring has platform default sourceLevel.
+2017-05-30 22:16:43,657  WARN [Worker-8] - ScalaProject - Project WaterPouring runs on platform default installation.
+2017-05-30 22:16:53,877 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-05-30 22:16:53,880 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-05-30 22:16:53,881 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-05-30 22:16:53,881 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-05-30 22:16:53,881 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-05-30 22:16:53,881 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-05-30 22:16:53,882 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-05-30 22:16:53,885 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-05-30 22:18:51,284 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-05-30 22:18:51,284 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-05-30 22:18:51,284 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-05-30 22:25:11,887 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-05-30 22:25:11,887 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-05-30 22:25:11,887 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-05-30 22:25:27,085 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-05-30 22:25:27,256 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-05-30 22:25:27,256 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-05-30 22:25:27,256 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-05-30 22:25:34,040 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-05-30 22:25:34,040 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-05-30 22:25:34,040 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-05-30 22:25:36,225 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-05-30 22:25:36,415 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-05-30 22:25:36,415 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-05-30 22:25:36,415 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-05-30 22:41:42,908  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-05-30 22:41:43,111  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-05-30 22:49:56,597 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-05-30 22:49:56,597 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-05-30 22:49:56,597 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-05-30 22:50:43,997  WARN [Worker-14] - ScalaProject - Project WaterPouring has platform default sourceLevel.
+2017-05-30 22:50:43,998  WARN [Worker-14] - ScalaProject - Project WaterPouring runs on platform default installation.
+2017-05-30 22:50:46,358  WARN [Worker-0] - ScalaProject - Project WaterPouring has platform default sourceLevel.
+2017-05-30 22:50:46,359  WARN [Worker-0] - ScalaProject - Project WaterPouring runs on platform default installation.
+2017-05-30 22:51:05,274  WARN [Worker-14] - ScalaProject - Project WaterPouring has platform default sourceLevel.
+2017-05-30 22:51:05,278  WARN [Worker-14] - ScalaProject - Project WaterPouring runs on platform default installation.
+2017-05-30 22:51:06,321  WARN [Worker-19] - ScalaProject - Project WaterPouring has platform default sourceLevel.
+2017-05-30 22:51:06,321  WARN [Worker-19] - ScalaProject - Project WaterPouring runs on platform default installation.
+2017-05-30 22:51:43,853  WARN [Worker-0] - ScalaProject - Project WaterPouring has platform default sourceLevel.
+2017-05-30 22:51:43,853  WARN [Worker-0] - ScalaProject - Project WaterPouring runs on platform default installation.
+2017-05-30 22:51:44,881  WARN [Worker-19] - ScalaProject - Project WaterPouring has platform default sourceLevel.
+2017-05-30 22:51:44,881  WARN [Worker-19] - ScalaProject - Project WaterPouring runs on platform default installation.
+2017-05-30 22:51:48,135  WARN [Worker-18] - ScalaProject - Project WaterPouring has platform default sourceLevel.
+2017-05-30 22:51:48,135  WARN [Worker-18] - ScalaProject - Project WaterPouring runs on platform default installation.
+2017-05-30 22:51:49,160  WARN [Worker-0] - ScalaProject - Project WaterPouring has platform default sourceLevel.
+2017-05-30 22:51:49,161  WARN [Worker-0] - ScalaProject - Project WaterPouring runs on platform default installation.
+2017-05-30 22:52:48,237  WARN [Worker-19] - ScalaProject - Project WaterPouring has platform default sourceLevel.
+2017-05-30 22:52:48,237  WARN [Worker-19] - ScalaProject - Project WaterPouring runs on platform default installation.
+2017-05-30 22:52:49,330  WARN [Worker-19] - ScalaProject - Project WaterPouring has platform default sourceLevel.
+2017-05-30 22:52:49,330  WARN [Worker-19] - ScalaProject - Project WaterPouring runs on platform default installation.
+2017-05-30 22:53:09,139  WARN [Worker-14] - ScalaProject - Project WaterPouring has platform default sourceLevel.
+2017-05-30 22:53:09,139  WARN [Worker-14] - ScalaProject - Project WaterPouring runs on platform default installation.
+2017-05-30 22:54:22,237  WARN [Worker-18] - ScalaProject - Project WaterPouring has platform default sourceLevel.
+2017-05-30 22:54:22,237  WARN [Worker-18] - ScalaProject - Project WaterPouring runs on platform default installation.
+2017-05-30 22:54:47,990  WARN [ModalContext] - ScalaProject - Project WaterPouring has platform default sourceLevel.
+2017-05-30 22:54:47,990  WARN [ModalContext] - ScalaProject - Project WaterPouring runs on platform default installation.
+2017-05-30 22:54:48,595  WARN [Java indexing] - ScalaProject - Project WaterPouring has platform default sourceLevel.
+2017-05-30 22:54:48,596  WARN [Java indexing] - ScalaProject - Project WaterPouring runs on platform default installation.
+2017-05-30 22:54:48,694 ERROR [Java indexing] - ScalaSourceFile - Compiler crash during indexing of L/WaterPouring/week2/Pouring.scala
+org.eclipse.core.internal.resources.ResourceException: Resource '/WaterPouring/src/pouringTest.sc' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:335)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:209)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.scalaide.core.resources.EclipseFile.input(EclipseFile.scala:104)
+	at scala.reflect.io.AbstractFile.toByteArray(AbstractFile.scala:167)
+	at scala.reflect.io.AbstractFile.toCharArray(AbstractFile.scala:161)
+	at org.scalaide.worksheet.ScriptCompilationUnit$$anonfun$getContents$2.apply(ScriptCompilationUnit.scala:53)
+	at org.scalaide.worksheet.ScriptCompilationUnit$$anonfun$getContents$2.apply(ScriptCompilationUnit.scala:53)
+	at scala.Option.getOrElse(Option.scala:121)
+	at org.scalaide.worksheet.ScriptCompilationUnit.getContents(ScriptCompilationUnit.scala:53)
+	at org.scalaide.worksheet.ScriptCompilationUnit.lastSourceMap(ScriptCompilationUnit.scala:37)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler$$anonfun$askReload$2$$anonfun$apply$5.apply(ScalaPresentationCompiler.scala:281)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler$$anonfun$askReload$2$$anonfun$apply$5.apply(ScalaPresentationCompiler.scala:281)
+	at scala.collection.immutable.List.map(List.scala:273)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler$$anonfun$askReload$2.apply(ScalaPresentationCompiler.scala:281)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler$$anonfun$askReload$2.apply(ScalaPresentationCompiler.scala:281)
+	at org.scalaide.core.compiler.IScalaPresentationCompiler$.withResponse(IScalaPresentationCompiler.scala:307)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.askReload(ScalaPresentationCompiler.scala:281)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.obtainPc$1(PresentationCompilerProxy.scala:95)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.internal(PresentationCompilerProxy.scala:100)
+	at org.scalaide.core.internal.jdt.model.ScalaCompilationUnit$class.addToIndexer(ScalaCompilationUnit.scala:157)
+	at org.scalaide.core.internal.jdt.model.ScalaSourceFile.addToIndexer(ScalaSourceFile.scala:71)
+	at org.scalaide.core.internal.jdt.search.ScalaSourceIndexer$$anonfun$indexDocument$2.apply(ScalaSourceIndexer.scala:16)
+	at org.scalaide.core.internal.jdt.search.ScalaSourceIndexer$$anonfun$indexDocument$2.apply(ScalaSourceIndexer.scala:16)
+	at scala.Option.map(Option.scala:146)
+	at org.scalaide.core.internal.jdt.search.ScalaSourceIndexer.indexDocument(ScalaSourceIndexer.scala:16)
+	at scala.tools.eclipse.contribution.weaving.jdt.indexerprovider.IndexerProviderAspect.ajc$around$scala_tools_eclipse_contribution_weaving_jdt_indexerprovider_IndexerProviderAspect$1$16276a3c(IndexerProviderAspect.aj:30)
+	at org.eclipse.jdt.internal.core.search.JavaSearchParticipant.indexDocument(JavaSearchParticipant.java:71)
+	at org.eclipse.jdt.internal.core.search.indexing.IndexManager.indexDocument(IndexManager.java:504)
+	at org.eclipse.jdt.internal.core.search.indexing.IndexManager$1.execute(IndexManager.java:984)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.run(JobManager.java:394)
+	at java.lang.Thread.run(Thread.java:748)
+2017-05-30 22:54:49,416  WARN [Worker-21] - ScalaProject - Project WaterPouring has platform default sourceLevel.
+2017-05-30 22:54:49,416  WARN [Worker-21] - ScalaProject - Project WaterPouring runs on platform default installation.
+2017-05-30 22:56:04,069  WARN [Worker-14] - ScalaProject - Project WaterPouring has platform default sourceLevel.
+2017-05-30 22:56:04,069  WARN [Worker-14] - ScalaProject - Project WaterPouring runs on platform default installation.
+2017-05-30 22:56:05,160  WARN [Worker-14] - ScalaProject - Project WaterPouring has platform default sourceLevel.
+2017-05-30 22:56:05,160  WARN [Worker-14] - ScalaProject - Project WaterPouring runs on platform default installation.
+2017-05-30 22:56:15,123  WARN [Worker-19] - ScalaProject - Project WaterPouring has platform default sourceLevel.
+2017-05-30 22:56:15,123  WARN [Worker-19] - ScalaProject - Project WaterPouring runs on platform default installation.
+2017-05-30 22:56:16,156  WARN [Worker-19] - ScalaProject - Project WaterPouring has platform default sourceLevel.
+2017-05-30 22:56:16,156  WARN [Worker-19] - ScalaProject - Project WaterPouring runs on platform default installation.
+2017-05-30 22:56:55,404  WARN [Worker-20] - ScalaProject - Project WaterPouring has platform default sourceLevel.
+2017-05-30 22:56:55,404  WARN [Worker-20] - ScalaProject - Project WaterPouring runs on platform default installation.
+2017-05-30 22:56:56,444  WARN [Worker-14] - ScalaProject - Project WaterPouring has platform default sourceLevel.
+2017-05-30 22:56:56,445  WARN [Worker-14] - ScalaProject - Project WaterPouring runs on platform default installation.
+2017-05-30 22:57:06,838  WARN [Worker-18] - ScalaProject - Project WaterPouring has platform default sourceLevel.
+2017-05-30 22:57:06,838  WARN [Worker-18] - ScalaProject - Project WaterPouring runs on platform default installation.
+2017-05-30 22:57:07,871  WARN [Worker-22] - ScalaProject - Project WaterPouring has platform default sourceLevel.
+2017-05-30 22:57:07,871  WARN [Worker-22] - ScalaProject - Project WaterPouring runs on platform default installation.
+2017-05-30 22:57:47,027  WARN [Worker-22] - ScalaProject - Project WaterPouring has platform default sourceLevel.
+2017-05-30 22:57:47,027  WARN [Worker-22] - ScalaProject - Project WaterPouring runs on platform default installation.
+2017-05-30 22:57:48,104  WARN [Worker-19] - ScalaProject - Project WaterPouring has platform default sourceLevel.
+2017-05-30 22:57:48,104  WARN [Worker-19] - ScalaProject - Project WaterPouring runs on platform default installation.
+2017-05-30 23:19:41,824  WARN [Worker-22] - ScalaProject - Project WaterPouring has platform default sourceLevel.
+2017-05-30 23:19:41,824  WARN [Worker-22] - ScalaProject - Project WaterPouring runs on platform default installation.
+2017-05-30 23:19:49,093  WARN [Worker-28] - ScalaProject - Project WaterPouring has platform default sourceLevel.
+2017-05-30 23:19:49,094  WARN [Worker-28] - ScalaProject - Project WaterPouring runs on platform default installation.
+2017-05-30 23:19:50,120  WARN [Worker-22] - ScalaProject - Project WaterPouring has platform default sourceLevel.
+2017-05-30 23:19:50,120  WARN [Worker-22] - ScalaProject - Project WaterPouring runs on platform default installation.
+2017-05-30 23:20:12,056  WARN [Worker-29] - ScalaProject - Project WaterPouring has platform default sourceLevel.
+2017-05-30 23:20:12,056  WARN [Worker-29] - ScalaProject - Project WaterPouring runs on platform default installation.
+2017-05-30 23:20:25,323  WARN [Worker-25] - ScalaProject - Project WaterPouring has platform default sourceLevel.
+2017-05-30 23:20:25,323  WARN [Worker-25] - ScalaProject - Project WaterPouring runs on platform default installation.
+2017-05-30 23:20:27,713  WARN [Worker-29] - ScalaProject - Project WaterPouring has platform default sourceLevel.
+2017-05-30 23:20:27,714  WARN [Worker-29] - ScalaProject - Project WaterPouring runs on platform default installation.
+2017-05-30 23:20:33,197  WARN [Worker-22] - ScalaProject - Project WaterPouring has platform default sourceLevel.
+2017-05-30 23:20:33,198  WARN [Worker-22] - ScalaProject - Project WaterPouring runs on platform default installation.
+2017-05-30 23:20:37,941  WARN [Worker-28] - ScalaProject - Project WaterPouring has platform default sourceLevel.
+2017-05-30 23:20:37,941  WARN [Worker-28] - ScalaProject - Project WaterPouring runs on platform default installation.
+2017-05-30 23:20:38,980  WARN [Worker-25] - ScalaProject - Project WaterPouring has platform default sourceLevel.
+2017-05-30 23:20:38,980  WARN [Worker-25] - ScalaProject - Project WaterPouring runs on platform default installation.
+2017-05-30 23:20:42,663  WARN [Worker-30] - ScalaProject - Project WaterPouring has platform default sourceLevel.
+2017-05-30 23:20:42,664  WARN [Worker-30] - ScalaProject - Project WaterPouring runs on platform default installation.
+2017-05-30 23:20:43,705  WARN [Worker-30] - ScalaProject - Project WaterPouring has platform default sourceLevel.
+2017-05-30 23:20:43,706  WARN [Worker-30] - ScalaProject - Project WaterPouring runs on platform default installation.
+2017-05-30 23:21:00,400  WARN [Worker-29] - ScalaProject - Project WaterPouring has platform default sourceLevel.
+2017-05-30 23:21:00,400  WARN [Worker-29] - ScalaProject - Project WaterPouring runs on platform default installation.
+2017-05-30 23:21:01,483  WARN [Worker-28] - ScalaProject - Project WaterPouring has platform default sourceLevel.
+2017-05-30 23:21:01,483  WARN [Worker-28] - ScalaProject - Project WaterPouring runs on platform default installation.
+2017-05-30 23:32:14,525  WARN [Worker-32] - ScalaProject - Project progfun2-streams has platform default sourceLevel.
+2017-05-30 23:32:14,525  WARN [Worker-32] - ScalaProject - Project progfun2-streams runs on platform default installation.
+2017-05-30 23:32:14,606  WARN [Worker-32] - ScalaProject - Project progfun2-streams has platform default sourceLevel.
+2017-05-30 23:32:14,606  WARN [Worker-32] - ScalaProject - Project progfun2-streams runs on platform default installation.
+2017-05-30 23:32:14,957  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for progfun2-streams, setting default to 2.11.
+2017-05-30 23:32:14,958  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for progfun2-streams, setting default to 2.11.
+2017-05-31 08:45:41,510 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-05-31 08:45:41,513 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-05-31 08:45:41,513 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-05-31 08:49:11,454 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-05-31 08:49:11,454 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-05-31 08:49:11,454 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-05-31 22:59:36,595  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1689
+2017-05-31 22:59:37,670  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1690
+2017-05-31 22:59:46,263  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1689
+2017-05-31 22:59:48,888  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1687
+2017-05-31 23:01:56,636  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1687
+2017-05-31 23:05:42,952  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1738
+2017-05-31 23:05:43,462  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1738
+2017-05-31 23:05:53,604  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1739
+2017-05-31 23:06:11,717  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1739
+2017-05-31 23:06:12,226  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1739
+2017-05-31 23:06:24,561  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1739
+2017-05-31 23:06:26,718  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1739
+2017-05-31 23:40:19,979 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Error during instrumentation of ScriptCompilationUnit(L/progfun2-streams/src/main/scala/streams/BloxorzTest.sc)
+org.scalaide.worksheet.runtime.MissingTopLevelObjectDeclaration: Couldn't find top level object declaration in source BloxorzTest.sc
+	at org.scalaide.worksheet.runtime.SourceInstrumenter.instrumentProgram(SourceInstrumenter.scala:37)
+	at org.scalaide.worksheet.runtime.SourceInstrumenter.instrument(SourceInstrumenter.scala:24)
+	at org.scalaide.worksheet.runtime.WorksheetRunner$$anonfun$receive$1.applyOrElse(WorksheetRunner.scala:73)
+	at akka.actor.Actor$class.aroundReceive(Actor.scala:465)
+	at org.scalaide.worksheet.runtime.WorksheetRunner.aroundReceive(WorksheetRunner.scala:44)
+	at akka.actor.ActorCell.receiveMessage(ActorCell.scala:516)
+	at akka.actor.ActorCell.invoke(ActorCell.scala:487)
+	at akka.dispatch.Mailbox.processMailbox(Mailbox.scala:254)
+	at akka.dispatch.Mailbox.run(Mailbox.scala:221)
+	at akka.dispatch.Mailbox.exec(Mailbox.scala:231)
+	at scala.concurrent.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260)
+	at scala.concurrent.forkjoin.ForkJoinPool$WorkQueue.pollAndExecAll(ForkJoinPool.java:1253)
+	at scala.concurrent.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1346)
+	at scala.concurrent.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979)
+	at scala.concurrent.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107)
+2017-05-31 23:45:44,204 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-05-31 23:45:44,206 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-05-31 23:45:44,206 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-01 08:27:57,985  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project WaterPouring has platform default sourceLevel.
+2017-06-01 08:27:57,987  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project WaterPouring runs on platform default installation.
+2017-06-01 08:39:45,110  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1112
+2017-06-01 08:39:46,177  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1114
+2017-06-01 08:39:49,751  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1120
+2017-06-01 08:39:50,835  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1067
+2017-06-01 08:40:09,220  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1128
+2017-06-01 08:40:09,220  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1150
+2017-06-02 00:15:55,191 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 00:15:55,194 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 00:15:55,194 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 00:20:02,556 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 00:20:02,557 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 00:20:02,557 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 00:29:52,674 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 00:29:52,674 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 00:29:52,674 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 00:32:56,449 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 00:32:56,449 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 00:32:56,449 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 00:34:51,262 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 00:34:51,263 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 00:34:51,263 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 00:41:05,560 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 00:41:05,560 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 00:41:05,560 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 00:41:54,252 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 00:41:54,252 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 00:41:54,252 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 00:42:41,729 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 00:42:41,729 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 00:42:41,729 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 00:47:04,672 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 00:47:04,673 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 00:47:04,673 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 00:53:17,945 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 00:53:17,945 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 00:53:17,945 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:02:34,883 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:02:34,883 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:02:34,883 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:08:30,656 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:08:30,656 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:08:30,656 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:11:23,918 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:11:23,918 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:11:23,918 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:16:19,627 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:16:19,629 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:16:19,629 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:17:41,033 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:17:41,033 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:17:41,033 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:17:42,187  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 3424
+2017-06-02 01:17:42,697  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 3424
+2017-06-02 01:17:43,604 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:17:43,604 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:17:43,604 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:17:44,235  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 3281
+2017-06-02 01:18:28,280 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:18:28,280 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:18:31,207 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:18:31,207 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:19:32,182 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:19:32,753 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:19:32,753 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:19:32,753 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:19:38,723 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:19:38,723 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:19:38,723 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:21:58,244 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:21:58,246 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:21:58,246 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:22:08,839 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:22:08,840 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:22:08,840 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:22:31,326 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:22:31,327 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:22:31,327 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:22:39,657 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:22:39,658 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:22:39,659 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:22:43,326 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:22:43,326 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:22:43,326 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:22:46,029 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:22:46,029 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:22:46,029 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:22:48,582 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:22:48,582 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:22:48,582 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:22:54,222 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:22:54,224 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:22:54,224 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:23:16,463 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:23:16,465 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:23:16,465 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:23:19,621 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:23:19,621 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:23:19,621 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:23:56,477 ERROR [Worker-140] - ProgramExecutor$ - Worksheet process has terminated unexpectedly (exit value 143
+At the time of termination, the following text was available in the output streams:
+Standard output:
+  56 hello
+500 res0: List[(streams.BloxorzTest.InfiniteLevel.Block, streams.BloxorzTest.Inf
+500 initeLevel.Move)] = List((Block(Pos(2,2),Pos(3,2)),Down))
+546 res1: Boolean = true
+566 res2: streams.BloxorzTest.InfiniteLevel.Pos = Pos(1,3)
+655 res3: (streams.BloxorzTest.InfiniteLevel.Block, List[streams.BloxorzTest.Inf
+655 initeLevel.Move]) = (Block(Pos(2,2),Pos(3,2)),List(Down, Right, Down))
+749 nei  : Stream[(streams.BloxorzTest.InfiniteLevel.Block, List[streams.Bloxorz
+749 Test.InfiniteLevel.Move])] = Stream((Block(Pos(1,3),Pos(1,3)),List(Down, Rig
+749 ht, Up)), ?)
+856 newNei  : Stream[(streams.BloxorzTest.InfiniteLevel.Block, List[streams.Blox
+856 orzTest.InfiniteLevel.Move])] = Stream((Block(Pos(1,3),Pos(1,3)),List(Down, 
+856 Right, Up)), ?)
+968 initial  : scala.collection.immutable.Stream[(streams.BloxorzTest.InfiniteLe
+968 vel.Block, List[streams.BloxorzTest.InfiniteLevel.Move])] = Stream((Block(Po
+968 s(1,2),Pos(1,2)),List()), ?)
+983 res4: scala.collection.immutable.Stream[(streams.BloxorzTest.InfiniteLevel.B
+983 lock, List[streams.BloxorzTest.InfiniteLevel.Move])] = Stream()
+1065 explored  : scala.collection.immutable.Set[streams.BloxorzTest.InfiniteLeve
+1065 l.Block] = Set(Block(Pos(1,2),Pos(1,2)))
+1147 res5: Stream[(streams.BloxorzTest.InfiniteLevel.Block, List[streams.Bloxorz
+1147 Test.InfiniteLevel.Move])] = Stream((Block(Pos(2,2),Pos(3,2)),List(Down)), 
+1147 ?)
+1221 newExplored  : scala.collection.immutable.Set[streams.BloxorzTest.InfiniteL
+1221 evel.Block] = Set(Block(Pos(1,2),Pos(1,2)), Block(Pos(2,2),Pos(3,2)))
+1332 newPaths  : scala.collection.immutable.Stream[(streams.BloxorzTest.Infinite
+1332 Level.Block, List[streams.BloxorzTest.InfiniteLevel.Move])] = Stream((Block
+1332 (Pos(1,2),Pos(1,2)),List()), ?)
+1349 res6: scala.collection.immutable.Stream[(streams.BloxorzTest.InfiniteLevel.
+1349 Block, List[streams.BloxorzTest.InfiniteLevel.Move])] = Stream((Block(Pos(2
+1349 ,2),Pos(3,2)),List(Down)), ?)
+1369 res7: scala.collection.immutable.Stream[(streams.BloxorzTest.InfiniteLevel.
+1369 Block, List[streams.BloxorzTest.InfiniteLevel.Move])] = Stream()
+
+Standard error:
+  
+
+2017-06-02 01:25:01,563  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-06-02 01:25:39,745  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-06-02 01:25:41,744  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-06-02 01:25:42,356  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-06-02 01:25:44,119  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-06-02 01:25:44,327  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-06-02 01:25:44,533  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-06-02 01:25:55,387  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-06-02 01:25:56,115  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-06-02 01:25:58,781  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-06-02 01:26:00,200 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:26:00,205 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:26:00,205 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:26:00,205 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:26:00,205 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:26:00,205 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:26:00,205 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:26:00,205 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:26:00,205 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:26:00,205 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:26:00,584  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-06-02 01:26:00,788  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-06-02 01:26:00,998  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-06-02 01:26:07,563 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:26:07,563 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:26:07,563 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:26:51,013 ERROR [Worker-136] - ProgramExecutor$ - Worksheet process has terminated unexpectedly (exit value 143
+At the time of termination, the following text was available in the output streams:
+Standard output:
+  56 hello
+500 res0: List[(streams.BloxorzTest.InfiniteLevel.Block, streams.BloxorzTest.Inf
+500 initeLevel.Move)] = List((Block(Pos(2,2),Pos(3,2)),Down))
+546 res1: Boolean = true
+566 res2: streams.BloxorzTest.InfiniteLevel.Pos = Pos(1,3)
+655 res3: (streams.BloxorzTest.InfiniteLevel.Block, List[streams.BloxorzTest.Inf
+655 initeLevel.Move]) = (Block(Pos(2,2),Pos(3,2)),List(Down, Right, Down))
+749 nei  : Stream[(streams.BloxorzTest.InfiniteLevel.Block, List[streams.Bloxorz
+749 Test.InfiniteLevel.Move])] = Stream((Block(Pos(1,3),Pos(1,3)),List(Down, Rig
+749 ht, Up)), ?)
+856 newNei  : Stream[(streams.BloxorzTest.InfiniteLevel.Block, List[streams.Blox
+856 orzTest.InfiniteLevel.Move])] = Stream((Block(Pos(1,3),Pos(1,3)),List(Down, 
+856 Right, Up)), ?)
+968 initial  : scala.collection.immutable.Stream[(streams.BloxorzTest.InfiniteLe
+968 vel.Block, List[streams.BloxorzTest.InfiniteLevel.Move])] = Stream((Block(Po
+968 s(1,2),Pos(1,2)),List()), ?)
+983 res4: scala.collection.immutable.Stream[(streams.BloxorzTest.InfiniteLevel.B
+983 lock, List[streams.BloxorzTest.InfiniteLevel.Move])] = Stream()
+1065 explored  : scala.collection.immutable.Set[streams.BloxorzTest.InfiniteLeve
+1065 l.Block] = Set(Block(Pos(1,2),Pos(1,2)))
+1147 res5: Stream[(streams.BloxorzTest.InfiniteLevel.Block, List[streams.Bloxorz
+1147 Test.InfiniteLevel.Move])] = Stream((Block(Pos(2,2),Pos(3,2)),List(Down)), 
+1147 ?)
+1221 newExplored  : scala.collection.immutable.Set[streams.BloxorzTest.InfiniteL
+1221 evel.Block] = Set(Block(Pos(1,2),Pos(1,2)), Block(Pos(2,2),Pos(3,2)))
+1332 newPaths  : scala.collection.immutable.Stream[(streams.BloxorzTest.Infinite
+1332 Level.Block, List[streams.BloxorzTest.InfiniteLevel.Move])] = Stream((Block
+1332 (Pos(1,2),Pos(1,2)),List()), ?)
+1349 res6: scala.collection.immutable.Stream[(streams.BloxorzTest.InfiniteLevel.
+1349 Block, List[streams.BloxorzTest.InfiniteLevel.Move])] = Stream((Block(Pos(2
+1349 ,2),Pos(3,2)),List(Down)), ?)
+1369 res7: scala.collection.immutable.Stream[(streams.BloxorzTest.InfiniteLevel.
+1369 Block, List[streams.BloxorzTest.InfiniteLevel.Move])] = Stream()
+
+Standard error:
+  
+
+2017-06-02 01:27:23,772  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-06-02 01:27:23,988  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-06-02 01:27:25,530  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-06-02 01:27:25,739  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-06-02 01:27:25,951  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-06-02 01:27:36,642 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:27:36,643 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:27:36,643 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:27:38,042  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-06-02 01:27:43,441  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-06-02 01:27:43,654  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-06-02 01:27:46,404  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-06-02 01:27:47,429  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-06-02 01:27:48,700  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-06-02 01:27:48,908  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-06-02 01:27:49,113  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-06-02 01:27:57,668 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:27:57,668 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:27:57,668 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:32:10,800 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:32:10,947 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:32:10,947 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:32:10,947 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:32:14,894  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-06-02 01:32:15,136  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-06-02 01:32:15,340  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-06-02 01:32:17,106  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-06-02 01:32:17,309  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-06-02 01:33:01,693  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-06-02 01:33:11,364 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:33:11,364 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:33:11,364 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:34:35,627 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:34:35,723  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-06-02 01:34:36,592 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:34:36,592 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:34:36,592 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:34:39,929  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-06-02 01:35:02,446 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:02,456 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,102 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,102 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,103 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,103 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,103 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,103 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,103 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,103 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,103 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,103 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,104 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,104 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,104 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,104 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,104 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,104 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,104 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,104 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,105 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,105 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,105 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,105 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,105 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,111 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,113 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,116 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,116 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,116 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,116 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,116 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,117 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,117 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,117 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,117 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,120 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,120 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,120 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,121 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,121 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,122 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,122 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,122 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,122 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,123 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,123 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,123 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,125 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,125 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,125 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,126 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,126 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,126 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,126 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,126 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,127 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,128 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,128 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,128 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,130 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,130 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,130 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,131 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,131 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,131 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,133 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,133 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,133 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,133 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,133 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,133 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,136 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,137 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,137 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,137 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,137 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,137 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,138 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,138 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,138 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,139 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,139 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,139 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,139 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,139 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,139 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,140 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,140 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,140 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,140 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,140 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,140 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,141 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,141 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,141 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,142 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,142 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,142 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,142 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,142 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,142 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,142 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,142 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,142 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,142 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:06,144 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:14,539 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:14,540 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:14,540 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:14,540 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:14,540 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:14,540 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:14,540 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:14,541 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-06-02 01:35:32,051  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-06-02 01:35:59,551  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-06-02 01:38:04,159 ERROR [Worker-146] - ProgramExecutor$ - Worksheet process has terminated unexpectedly (exit value 143
+At the time of termination, the following text was available in the output streams:
+Standard output:
+  56 hello
+
+Standard error:
+  
+
+2017-06-02 01:40:12,677  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-06-02 01:42:13,561 ERROR [Worker-150] - ProgramExecutor$ - Worksheet process has terminated unexpectedly (exit value 143
+At the time of termination, the following text was available in the output streams:
+Standard output:
+  56 hello
+
+Standard error:
+  
+
+2017-06-02 01:44:03,937  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-06-02 01:44:04,163  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-06-02 01:44:04,377  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-06-02 01:44:13,447  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-06-02 01:44:13,650  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-06-02 01:44:13,852  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.

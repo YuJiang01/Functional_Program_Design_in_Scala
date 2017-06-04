@@ -1,0 +1,44 @@
+property("gen3") =  forAll { (h1: H,h2:H) =>
+    if(!isEmpty(h1) && !isEmpty(h2)) {
+      val m = findMin(h1)
+      val n = findMin(h2)
+      val res = if(ord.lteq(n,m)) n else m
+      val res2 = if(ord.lteq(res,1)) res else 1
+      val dat = meld(meld(insert(res2,empty),h1),h2)
+      findMin(deleteMin(dat)) == res
+    }else true
+      
+  }
+  
+    property("gen4") = forAll { (h1: H,h2:H) =>
+    if(!isEmpty(h1) && !isEmpty(h2)) {
+      val m = findMin(h1)
+      val n = findMin(h2)
+      val res = if(ord.lteq(n,m)) m else n
+      ord.lteq(findMin(deleteMin(meld(h1,h2))), res)
+    }else true
+    
+    
+property("gen2") = forAll { (h1: H,h2:H) =>
+    if(!isEmpty(h1) && !isEmpty(h2)) {
+      val m = findMin(h1)
+      val n = findMin(h2)
+      val res = if(ord.lteq(n,m)) n else m
+      findMin(meld(h1,h2)) == res
+    }else true
+      
+  }
+  
+  
+  property("gen5") =  forAll { (h1: H,h2:H) =>
+    if(!isEmpty(h1) && !isEmpty(h2)) {
+      val m = findMin(h1)
+      val n = findMin(h2)
+      val res = if(ord.lteq(n,m)) n else m
+      val res2 = if(ord.lteq(res,1)) res else 1
+      val res3 = if(ord.lteq(res-1,0)) res-1 else 0
+      val dat = meld(meld(insert(res2,empty),h1),insert(res3,h2))
+      findMin(deleteMin(dat)) == res2
+    }else true
+      
+  }

@@ -1,0 +1,38 @@
+package streams
+
+object BloxorzTest {
+
+	println("hello")                          //> hello
+	
+ object InfiniteLevel extends Solver with StringParserTerrain{
+		val level="""-ST
+          |-oo
+          |o-o""".stripMargin
+          
+    //val startBlock = Block(Pos(1,1),Pos(1,1))
+    
+  }
+
+InfiniteLevel.startPos                            //> res0: streams.BloxorzTest.InfiniteLevel.Pos = Pos(0,1)
+//InfiniteLevel.terrain
+//InfiniteLevel.goal
+
+//InfiniteLevel.solution                          //> java.util.NoSuchElementException: head of empty list
+                                                  //| 	at scala.collection.immutable.Nil$.head(List.scala:420)
+                                                  //| 	at scala.collection.immutable.Nil$.head(List.scala:417)
+                                                  //| 	at streams.Solver$class.getNeighborsWithHistory$1(Solver.scala:35)
+                                                  //| 	at streams.Solver$class.neighborsWithHistory(Solver.scala:38)
+                                                  //| 	at streams.BloxorzTest$$anonfun$main$1$InfiniteLevel$2$.neighborsWithHis
+                                                  //| tory(streams.BloxorzTest.scala:7)
+                                                  //| 	at streams.Solver$class.from(Solver.scala:77)
+                                                  //| 	at streams.BloxorzTest$$anonfun$main$1$InfiniteLevel$2$.from(streams.Blo
+                                                  //| xorzTest.scala:7)
+                                                  //| 	at streams.Solver$class.pathsFromStart(Solver.scala:84)
+                                                  //| 	at streams.BloxorzTest$$anonfun$main$1$InfiniteLevel$2$.pathsFromStart$l
+                                                  //| zycompute(streams.BloxorzTest.scala:7)
+                                                  //| 	at streams.BloxorzTest$$anonfun$main$1$InfiniteLevel$2$.pathsFromStart(s
+                                                  //| treams.BloxorzTest.scala:7)
+                                                  //| 	at streams.Solver$class.pathsToGoal(Solver.scala:90)
+                                                  //| 	at streams.BloxorzTest$$anonfun$main$1$InfiniteLevel$2$.path
+                                                  //| Output exceeds cutoff limit.
+}

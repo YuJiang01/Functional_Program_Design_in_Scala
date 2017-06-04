@@ -1,0 +1,16 @@
+!SESSION 2017-05-25 22:33:39.199 -----------------------------------------------
+eclipse.buildId=4.5.0-vfinal-2016-12-13T10:59:29Z-Typesafe
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/yujiang/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/yujiang/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2017-05-25 22:34:08.642
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.scala-ide.sdt.core 2 0 2017-05-25 22:34:36.479
+!MESSAGE Preference scala.compiler.sourceLevel was uninitialized for example, setting default to 2.11.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2017-05-25 22:34:36.487
+!MESSAGE Preference scala.compiler.installation was uninitialized for example, setting default to 2.11.

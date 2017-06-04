@@ -1,0 +1,9 @@
+2017-05-25 22:34:35,629  WARN [ModalContext] - ScalaProject - Project example has platform default sourceLevel.
+2017-05-25 22:34:35,630  WARN [ModalContext] - ScalaProject - Project example runs on platform default installation.
+2017-05-25 22:34:35,632  WARN [ModalContext] - ScalaProject - Project example has platform default sourceLevel.
+2017-05-25 22:34:35,632  WARN [ModalContext] - ScalaProject - Project example runs on platform default installation.
+2017-05-25 22:34:36,148  WARN [ModalContext] - ScalaProject - Project example has platform default sourceLevel.
+2017-05-25 22:34:36,148  WARN [ModalContext] - ScalaProject - Project example runs on platform default installation.
+2017-05-25 22:34:36,486  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for example, setting default to 2.11.
+2017-05-25 22:34:36,488  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for example, setting default to 2.11.
+2017-05-25 22:36:35,848  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.

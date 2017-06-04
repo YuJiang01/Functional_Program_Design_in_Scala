@@ -1,0 +1,5 @@
+package streams
+
+object test {
+  println("Welcome to the Sc ala worksheet")      //> Welcome to the Sc ala worksheet
+}

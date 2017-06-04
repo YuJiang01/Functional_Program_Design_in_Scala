@@ -1,0 +1,20 @@
+package streams
+
+object BloxorzTest{
+
+println("hello")                                  //> hello
+
+val level =
+        """ST
+          |oo
+          |oo""".stripMargin                      //> level  : String = ST
+                                                  //| oo
+                                                  //| oo
+  val vector: Vector[Vector[Char]] =
+    Vector(level.split("\n").map(str => Vector(str: _*)): _*)
+
+  /* val terrain: Terrain = terrainFunction(vector)
+   val startPos: Pos = findChar('S', vector)
+   val goal: Pos = findChar('T', vector)*/
+
+}

@@ -1,0 +1,110 @@
+package streams
+
+object BloxorzTest {
+
+	println("hello")                          //> hello
+	
+ object InfiniteLevel extends Solver with StringParserTerrain{
+    val level =
+      """------
+        |--ST--
+        |--oo--
+        |--oo--
+        |------""".stripMargin
+          
+    //val startBlock = Block(Pos(1,1),Pos(1,1))
+    val secondBlock = Block(Pos(2,2),Pos(3,2))
+    val thirdBlock = Block(Pos(2,3),Pos(3,3))
+    val history = List[Move](Down,Right)
+    
+  }
+
+import InfiniteLevel._
+InfiniteLevel.startBlock.legalNeighbors           //> res0: List[(streams.BloxorzTest.InfiniteLevel.Block, streams.BloxorzTest.Inf
+                                                  //| initeLevel.Move)] = List((Block(Pos(2,2),Pos(3,2)),Down))
+InfiniteLevel.terrain(InfiniteLevel.startPos)     //> res1: Boolean = true
+
+InfiniteLevel.goal                                //> res2: streams.BloxorzTest.InfiniteLevel.Pos = Pos(1,3)
+
+InfiniteLevel.neighborsWithHistory(InfiniteLevel.startBlock,InfiniteLevel.history).head
+                                                  //> res3: (streams.BloxorzTest.InfiniteLevel.Block, List[streams.BloxorzTest.Inf
+                                                  //| initeLevel.Move]) = (Block(Pos(2,2),Pos(3,2)),List(Down, Right, Down))
+
+val nei = InfiniteLevel.neighborsWithHistory(InfiniteLevel.thirdBlock,InfiniteLevel.history)
+                                                  //> nei  : Stream[(streams.BloxorzTest.InfiniteLevel.Block, List[streams.Bloxorz
+                                                  //| Test.InfiniteLevel.Move])] = Stream((Block(Pos(1,3),Pos(1,3)),List(Down, Rig
+                                                  //| ht, Up)), ?)
+
+
+val newNei = InfiniteLevel.newNeighborsOnly(nei,Set(InfiniteLevel.startBlock,InfiniteLevel.secondBlock))
+                                                  //> newNei  : Stream[(streams.BloxorzTest.InfiniteLevel.Block, List[streams.Blox
+                                                  //| orzTest.InfiniteLevel.Move])] = Stream((Block(Pos(1,3),Pos(1,3)),List(Down, 
+                                                  //| Right, Up)), ?)
+
+
+//val allPath = InfiniteLevel.pathsFromStart
+
+//allPath.tail
+
+val initial = Stream((startBlock,List[Move]()))   //> initial  : scala.collection.immutable.Stream[(streams.BloxorzTest.InfiniteLe
+                                                  //| vel.Block, List[streams.BloxorzTest.InfiniteLevel.Move])] = Stream((Block(Po
+                                                  //| s(1,2),Pos(1,2)),List()), ?)
+  initial.tail                                    //> res4: scala.collection.immutable.Stream[(streams.BloxorzTest.InfiniteLevel.B
+                                                  //| lock, List[streams.BloxorzTest.InfiniteLevel.Move])] = Stream()
+                                                  
+val explored = Set(startBlock)                    //> explored  : scala.collection.immutable.Set[streams.BloxorzTest.InfiniteLeve
+                                                  //| l.Block] = Set(Block(Pos(1,2),Pos(1,2)))
+
+newNeighborsOnly(neighborsWithHistory(initial.head._1,initial.head._2),explored)
+                                                  //> res5: Stream[(streams.BloxorzTest.InfiniteLevel.Block, List[streams.Bloxorz
+                                                  //| Test.InfiniteLevel.Move])] = Stream((Block(Pos(2,2),Pos(3,2)),List(Down)), 
+                                                  //| ?)
+val newExplored = explored ++ initial.head._1.legalNeighbors.map(x=>x._1)
+                                                  //> newExplored  : scala.collection.immutable.Set[streams.BloxorzTest.InfiniteL
+                                                  //| evel.Block] = Set(Block(Pos(1,2),Pos(1,2)), Block(Pos(2,2),Pos(3,2)))
+
+
+val newPaths = newNeighborsOnly(neighborsWithHistory(initial.head._1,initial.head._2),explored)
+                                                  //> newPaths  : Stream[(streams.BloxorzTest.InfiniteLevel.Block, List[streams.B
+                                                  //| loxorzTest.InfiniteLevel.Move])] = Stream((Block(Pos(2,2),Pos(3,2)),List(Do
+                                                  //| wn)), ?)
+
+
+ newPaths.tail                                    //> res6: scala.collection.immutable.Stream[(streams.BloxorzTest.InfiniteLevel.
+                                                  //| Block, List[streams.BloxorzTest.InfiniteLevel.Move])] = Stream()
+
+
+
+from(initial,explored)                            //> java.lang.StackOverflowError
+                                                  //| 	at scala.collection.TraversableOnce$class.nonEmpty(TraversableOnce.scala
+                                                  //| :111)
+                                                  //| 	at scala.collection.AbstractTraversable.nonEmpty(Traversable.scala:104)
+                                                  //| 	at scala.collection.generic.Growable$class.loop$1(Growable.scala:52)
+                                                  //| 	at scala.collection.generic.Growable$class.$plus$plus$eq(Growable.scala:
+                                                  //| 57)
+                                                  //| 	at scala.collection.mutable.ListBuffer.$plus$plus$eq(ListBuffer.scala:18
+                                                  //| 3)
+                                                  //| 	at scala.collection.immutable.List.$colon$colon$colon(List.scala:128)
+                                                  //| 	at scala.collection.immutable.List.$plus$plus(List.scala:195)
+                                                  //| 	at streams.GameDef$Block.neighbors(GameDef.scala:135)
+                                                  //| 	at streams.GameDef$Block.legalNeighbors(GameDef.scala:141)
+                                                  //| 	at streams.Solver$class.from(Solver.scala:81)
+                                                  //| 	at streams.BloxorzTest$$anonfun$main$1$InfiniteLevel$2$.from(streams.Blo
+                                                  //| xorzTest.scala:7)
+                                                  //| 	at streams.Solver$class.from(Solver.scala:83)
+                                                  //| 	at streams.BloxorzTest$$anonfun$main$1$InfiniteLevel$2$.from(stream
+                                                  //| Output exceeds cutoff limit.
+
+val res = {if(initial.isEmpty) initial
+    else {
+      val newExplored = explored ++ initial.head._1.legalNeighbors.map(x=>x._1)
+      newNeighborsOnly(neighborsWithHistory(initial.head._1,initial.head._2),explored) #::: from(initial.tail,newExplored)
+    }
+    }
+    
+
+
+
+
+InfiniteLevel.solution
+}

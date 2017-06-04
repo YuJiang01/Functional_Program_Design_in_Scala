@@ -1,0 +1,39 @@
+package streams
+
+object BloxorzTest {
+
+	println("hello")                          //> hello
+	
+ object InfiniteLevel extends Solver with StringParserTerrain{
+		val level="""-ST
+          |-oo
+          |o-o""".stripMargin
+          
+    //val startBlock = Block(Pos(1,1),Pos(1,1))
+    
+  }
+
+InfiniteLevel.startPos                            //> res0: streams.BloxorzTest.InfiniteLevel.Pos = Pos(0,1)
+//InfiniteLevel.terrain
+//InfiniteLevel.goal
+
+InfiniteLevel.pathsToGoal.head                    //> java.util.NoSuchElementException: head of empty stream
+                                                  //| 	at scala.collection.immutable.Stream$Empty$.head(Stream.scala:1168)
+                                                  //| 	at scala.collection.immutable.Stream$Empty$.head(Stream.scala:1166)
+                                                  //| 	at streams.Solver$class.solution(Solver.scala:105)
+                                                  //| 	at streams.BloxorzTest$$anonfun$main$1$InfiniteLevel$2$.solution$lzycomp
+                                                  //| ute(streams.BloxorzTest.scala:7)
+                                                  //| 	at streams.BloxorzTest$$anonfun$main$1$InfiniteLevel$2$.solution(streams
+                                                  //| .BloxorzTest.scala:7)
+                                                  //| 	at streams.BloxorzTest$$anonfun$main$1.apply$mcV$sp(streams.BloxorzTest.
+                                                  //| scala:20)
+                                                  //| 	at org.scalaide.worksheet.runtime.library.WorksheetSupport$$anonfun$$exe
+                                                  //| cute$1.apply$mcV$sp(WorksheetSupport.scala:76)
+                                                  //| 	at org.scalaide.worksheet.runtime.library.WorksheetSupport$.redirected(W
+                                                  //| orksheetSupport.scala:65)
+                                                  //| 	at org.scalaide.worksheet.runtime.library.WorksheetSupport$.$execute(Wor
+                                                  //| ksheetSupport.scala:75)
+                                                  //| 	at streams.BloxorzTest$.main(streams.BloxorzTest.scala:3)
+                                                  //| 	at streams.Bloxor
+                                                  //| Output exceeds cutoff limit.
+}

@@ -1,0 +1,33 @@
+package streams
+
+object BloxorzTest {
+
+	println("hello")
+	
+ object InfiniteLevel extends StringParserTerrain {
+		val level="""-ST
+          |-oo
+          |o-o""".stripMargin
+  }
+
+InfiniteLevel.startPos
+InfiniteLevel.terrain()
+InfiniteLevel.goal
+}
+
+/*class test1 extends StringParserTerrain{
+
+}
+
+object test3 {
+	val level =
+        """ST
+          |oo
+          |oo""".stripMargin
+	val vector: Vector[Vector[Char]] =
+    Vector(level.split("\n").map(str => Vector(str: _*)): _*)
+	val test2 = new test1
+	val terrain = test2.terrainFunction(vector)
+	val startPos = test2.findChar('S', vector)
+	val goal = test2.findChar('T', vector)
+}*/

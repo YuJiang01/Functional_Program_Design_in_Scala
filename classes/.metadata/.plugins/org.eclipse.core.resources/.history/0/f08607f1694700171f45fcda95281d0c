@@ -1,0 +1,59 @@
+package streams
+
+object BloxorzTest {
+
+	println("hello")
+	
+ object InfiniteLevel extends Solver with StringParserTerrain{
+    val level =
+      """------
+        |--ST--
+        |--oo--
+        |--oo--
+        |------""".stripMargin
+          
+    //val startBlock = Block(Pos(1,1),Pos(1,1))
+    val secondBlock = Block(Pos(2,2),Pos(3,2))
+    val thirdBlock = Block(Pos(2,3),Pos(3,3))
+    val history = List[Move](Down,Right)
+    
+  }
+
+import InfiniteLevel._
+InfiniteLevel.startBlock.legalNeighbors
+InfiniteLevel.terrain(InfiniteLevel.startPos)
+
+InfiniteLevel.goal
+
+InfiniteLevel.neighborsWithHistory(InfiniteLevel.startBlock,InfiniteLevel.history).head
+
+val nei = InfiniteLevel.neighborsWithHistory(InfiniteLevel.thirdBlock,InfiniteLevel.history)
+
+
+val newNei = InfiniteLevel.newNeighborsOnly(nei,Set(InfiniteLevel.startBlock,InfiniteLevel.secondBlock))
+
+
+val allPath = InfiniteLevel.pathsFromStart
+
+allPath.tail
+
+val initial = Stream((startBlock,List[Move]()))
+val explored = Set(startBlock)
+
+newNeighborsOnly(neighborsWithHistory(initial.head._1,initial.head._2),explored)
+
+from(initial.tail,newExplored)
+
+val res = {if(initial.isEmpty) initial
+    else {
+      val newExplored = explored ++ initial.head._1.legalNeighbors.map(x=>x._1)
+      newNeighborsOnly(neighborsWithHistory(initial.head._1,initial.head._2),explored) #::: from(initial.tail,newExplored)
+    }
+    }
+    
+
+
+
+
+InfiniteLevel.solution
+}

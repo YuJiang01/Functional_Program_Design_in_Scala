@@ -1,0 +1,5 @@
+package streams
+
+object test extends GameDef{
+  println("Welcome to the Sc ala worksheet")
+}
